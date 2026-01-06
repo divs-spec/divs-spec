@@ -1,6 +1,6 @@
 ## Hi I’m Divyani 👋
 
-I am a software engineer focused on building autonomous engineering systems that reduce cognitive load for developers. My work spans agentic AI, CI/CD intelligence, backend systems, and cloud-native architectures, with a strong emphasis on reasoning over codebases rather than treating systems as black boxes. I have hands-on experience designing production-grade services, debugging large-scale systems, and automating failure diagnosis. Currently, I am exploring LLM-based agents, low-level and high-level system design, and self-healing DevOps workflows. Alongside hackathon participation, I work as a self-employed software developer, building practical systems that prioritize reliability, clarity, and engineering judgment over manual intervention.
+I am a B.Tech Computer Science graduate from Graphic Era Deemed to be University with industry experience at Amazon.I work across agentic AI, CI/CD intelligence, backend and cloud systems, focusing on autonomous engineering intelligence and reasoning over codebases. Currently, I explore LLM-based agents and self-healing DevOps while working as a self-employed developer and problem solving hackathon participant.
 
 --- 
 🛠️ Tech Stack
