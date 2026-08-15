@@ -47,6 +47,7 @@ I am a B.Tech Computer Science graduate from Graphic Era Deemed to be University
   - GitHub: https://github.com/divs-spec
   - LinkedIn: https://www.linkedin.com/in/divyani-singh-5a7a6a224/
   - LeetCode: https://leetcode.com/u/ikarisoi
+  - YouTube: https://www.youtube.com/@debyanima
 
 ⚡ Fun fact: I trust a system more if it can explain why it failed than if it claims it never will.
 
